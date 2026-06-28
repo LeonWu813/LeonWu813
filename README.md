@@ -22,10 +22,15 @@ for a **Summer 2026 software engineering internship** (full-stack, backend, or f
 ### Tech
 
 **Languages:** Java · TypeScript · JavaScript · Python · SQL · C++
+
 **Backend:** Spring Boot · Spring Security · JPA/Hibernate · REST APIs · JUnit
+
 **Frontend:** React · Redux Toolkit · Vite
+
 **Data & Cloud:** PostgreSQL · Redis · AWS (EC2, RDS, S3, CloudFront, ECS Fargate)
+
 **DevOps:** Docker · GitHub Actions · Git
+
 **AI & Agents:** Claude Code (subagents, skills, hooks) · multi-agent orchestration · Claude API
 
 ### Reach me
