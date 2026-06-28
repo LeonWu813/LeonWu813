@@ -5,7 +5,7 @@ systems by hand — from the database schema to the cloud deployment — and I d
 multi-agent systems that plan, implement, and ship software end to end.
 
 🔭 **Currently:** pursuing my MS in Computer Science at Northeastern and looking
-for a **Summer 2026 software engineering internship** (full-stack, backend, or frontend).
+for a **Software engineering internship** (full-stack, backend, or frontend).
 
 ### Featured projects
 
